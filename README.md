@@ -1,4 +1,5 @@
 # RemPixie - Convert Rem and Pixel
+<a href="https://chrome.google.com/webstore/detail/rempixie-convert-alternat/epbcejmcgehpmjindnbdgjamkaifcedm"><img alt="Chrome web store version" src="https://img.shields.io/chrome-web-store/v/epbcejmcgehpmjindnbdgjamkaifcedm.svg"></a>
 
 <img width="640" alt="スクリーンショット 2023-03-27 0 11 58" src="https://user-images.githubusercontent.com/42238927/227957239-9ca13725-9891-41ea-852f-bafcfecb9c17.png">
 
@@ -14,9 +15,9 @@ Two modes exist, single px and rem, or you can paste css as is and ￥convert mu
 ## 🎬 Demo
 
 Coming Soon...
-## 📦 Install
 
-Coming Soon...
+## 📦 Install
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/rempixie-convert-alternat/epbcejmcgehpmjindnbdgjamkaifcedm)
 
 ## 💻 Usage
 
